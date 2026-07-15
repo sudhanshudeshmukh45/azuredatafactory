@@ -1,0 +1,15 @@
+{
+	"name": "adatafactorypro1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d31e364-2537-4f1b-998c-502cb346f513",
+		"tenantId": "c2227383-8ed1-425c-a83b-f28b345e564d"
+	}
+}
